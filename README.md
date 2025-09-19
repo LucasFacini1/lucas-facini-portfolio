@@ -189,8 +189,7 @@ Edite o arquivo `src/data/skills.ts`:
 
 ## 📞 Contato
 
-- **Email**: lucas.facini@email.com
-- **WhatsApp**: (19) 97131-9970
+- **Email**: lucasfacinidev@hotmail.com
 - **LinkedIn**: [Lucas Facini](https://www.linkedin.com/in/lucas-facini-739056328/)
 - **GitHub**: [LucasFacini1](https://github.com/LucasFacini1)
 
