@@ -40,8 +40,8 @@ const Contact = () => {
     {
       icon: Phone,
       label: 'WhatsApp',
-      value: '(19) 97131-9970',
-      href: 'https://wa.me/5519971319970',
+      value: '(19) 97131-9900',
+      href: 'https://wa.me/5519971319900',
     },
     {
       icon: MapPin,
