@@ -196,7 +196,3 @@ Edite o arquivo `src/data/skills.ts`:
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-**Desenvolvido com ❤️ por Lucas Facini**
