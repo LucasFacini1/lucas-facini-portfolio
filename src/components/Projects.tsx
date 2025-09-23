@@ -36,7 +36,7 @@ const Projects = () => {
     <motion.div
       variants={itemVariants}
       whileHover={{ y: -10, scale: 1.02 }}
-      className={`card-neon group ${isFeatured ? 'lg:col-span-2' : ''}`}
+      className="card-neon group"
     >
       {/* Project Image */}
       <div className="relative overflow-hidden rounded-lg mb-4 h-48 lg:h-56">
@@ -183,9 +183,9 @@ const Projects = () => {
           variants={containerVariants}
           initial="hidden"
           animate={isInView ? "visible" : "hidden"}
-          className="flex justify-center mb-16"
+          className="mb-16"
         >
-          <div className="max-w-2xl w-full">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 max-w-6xl mx-auto">
             {featuredProjects.map((project) => (
               <ProjectCard key={project.id} project={project} isFeatured={true} />
             ))}
